@@ -14,5 +14,5 @@ do
 	else
 		echo "Best school"
 	fi
-	((n++))
+	(( n++ ))
 done
